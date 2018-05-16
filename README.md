@@ -1,4 +1,4 @@
-#Creating Customer Segments
+# Creating Customer Segments
 ## Machine Learning Engineer Nanodegree
 ## Topic: Unsupervised Learning
 

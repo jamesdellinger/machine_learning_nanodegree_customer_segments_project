@@ -8,6 +8,8 @@
 
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/customer_segments.ipynb)
 
+[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/customer_segments.pdf)
+
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/report.html)
 
 ## Project Overview

@@ -31,3 +31,9 @@
 * [Project Review](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/customer_segments_project_review.pdf)
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/customer_segments_project_grading_rubric.pdf)
+
+### Dependencies:
+
+* [requirements.txt](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/requirements.txt)
+
+* [Anaconda .yml file](https://github.com/jamesdellinger/machine_learning_nanodegree_customer_segments_project/blob/master/customer_segments_project.yml)

@@ -19,7 +19,7 @@
 * Ascertaining whether my clustering algorithm has optimally clustered a set of data to find hidden patterns in a dataset:
   * Using mean silhouette coefficient to determine the best number of clusters.
   * Comparing the performance, capabilities and limitations of algorithms like K-Means clustering and Gaussian Mixture Modeling (GMM).
-  * Visualizing clusters with matplotlib
+  * Visualizing clusters with matplotlib.
 * Assessing information given by cluster data and using it in a meaningful way.
 
 ### My completed project is here:
